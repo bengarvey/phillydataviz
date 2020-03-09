@@ -2,7 +2,7 @@
 
 *Last Updated: 2020-03-08*
 
-Philadelphia Data Visualization (PhillyDataviz) is a group intended for networking, education, and highlighting interesting projects in the space of data visualization. We cast a wide net and include data engineering, creative coding, statistics, data journalism and more. .
+Philadelphia Data Visualization (PhillyDataviz) is a group intended for networking, education, and highlighting interesting projects in the space of data visualization. We cast a wide net and include data engineering, creative coding, statistics, data journalism and more.
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all Meetup events.
 
@@ -40,7 +40,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## License
 
-This Code of Conduct was forked from the example policy from the [DevopsDC](https://github.com/devopsdc/devopsdc/blob/master/code_of_conduct.md) which forked it from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license. It is also based on the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
+This Code of Conduct was forked from the example policy from [DevopsDC](https://github.com/devopsdc/devopsdc/blob/master/code_of_conduct.md) which forked it from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers, which is under a Creative Commons Zero license. It is also based on the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
 
 ## Source and Changes
 
